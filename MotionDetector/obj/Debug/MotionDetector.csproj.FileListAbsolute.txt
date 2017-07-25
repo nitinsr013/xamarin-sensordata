@@ -1,0 +1,15 @@
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\bin\Debug\MotionDetector.dll
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\bin\Debug\MotionDetector.MotionDetector.apk
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\bin\Debug\MotionDetector.MotionDetector-Signed.apk
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\MotionDetector.dll
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\android\bin\MotionDetector.MotionDetector.apk
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\res\layout\main.xml
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\res\values\strings.xml
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\res\drawable\icon.png
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\R.cs.flag
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\uploadflags.txt
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\bin\Debug\MotionDetector.dll.mdb
+C:\Users\e01343\Desktop\VehicleDataCollectionUsingSmartPhone\MotionDetector\MotionDetector\obj\Debug\android\assets\MotionDetector.dll.mdb

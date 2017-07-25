@@ -1,0 +1,4 @@
+MotionDetector.MainActivity, MotionDetector;md5a150bff9132ef2cb3989a995a27742b6.MainActivity
+MotionDetector.MainActivity, MotionDetector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a150bff9132ef2cb3989a995a27742b6.MainActivity
+MotionDetector.MainActivity;md5a150bff9132ef2cb3989a995a27742b6.MainActivity
+motiondetector.MainActivity;md5a150bff9132ef2cb3989a995a27742b6.MainActivity

@@ -3,6 +3,13 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
+  <TextView
+          android:text=    "Accelerometer"
+          android:gravity=    "center_horizontal"
+          android:background=    "#aa0000"
+          android:layout_width=    "wrap_content"
+          android:layout_height=    "fill_parent"
+          android:layout_weight=    "1"    />
     <TextView
         android:id="@+id/accelerometer_text"
         android:layout_width="fill_parent"
@@ -12,7 +19,14 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:layout_marginTop="30dp" />
- <TextView
+  <TextView
+         android:text=    "Gyroscope"
+         android:gravity=    "center_horizontal"
+         android:background=    "#aa0000"
+         android:layout_width=    "wrap_content"
+         android:layout_height=    "fill_parent"
+         android:layout_weight=    "1"    />
+    <TextView
         android:id="@+id/gyroscope_text"
         android:layout_width="fill_parent"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -21,4 +35,19 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:layout_marginTop="30dp" />
+  <Button
+        android:text="Pause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PauseButton" />
+  <Button
+      android:text="Resume"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/ResumeButton" />
+  <Button
+      android:text="Share"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/Share" />
 </LinearLayout>
